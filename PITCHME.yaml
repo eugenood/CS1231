@@ -1,0 +1,5 @@
+theme : night
+highlight : ir-black
+transition : none
+published : true
+mathjax : TeX-AMS_HTML-full
