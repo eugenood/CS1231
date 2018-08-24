@@ -1,5 +1,4 @@
 theme : night
 footnote : "© 2018 Eugene Lim."
 transition : none
-published : true
 mathjax : TeX-AMS_HTML-full
