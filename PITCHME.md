@@ -4,18 +4,14 @@ Proof Techniques
 
 ---
 
-@snap[north-east]
-### Prove by induction
-@snapend
+#### Prove by induction
 
 - Prove $T(1)$.
 - Assume $T(n)$ be true, prove $T(n+1)$.
 
 ---
 
-@snap[north-east]
-### The Cauchy-Schwarz Inequality
-@snapend
+#### The Cauchy-Schwarz Inequality
 
 `\[
 \left( \sum_{k=1}^n a_k b_k \right)^{\!\!2} \leq
