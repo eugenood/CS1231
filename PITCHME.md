@@ -1,14 +1,13 @@
-# Flux 
+# CS1231 Tutorial 1
 
-An application architecture for React
+Proof Techniques
 
 ---
 
-### Flux Design
+### Prove by induction
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+- Prove $T(1)$.
+- Assume $T(n)$ be true, prove $T(n+1)$.
 
 ---
 
